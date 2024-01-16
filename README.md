@@ -1,7 +1,17 @@
 # Materials of the hands-on used for the MVA master's degree - M/EEG part
 
-## Lesson 1 - MEEG data visualization, preprocessing, and quality check
+Materials associated to the the classes given during the master's degree in [MATHÉMATIQUES, VISION, APPRENTISSAGE (MVA)](https://www.master-mva.com/) -  [Functional imaging and BCI](https://www.master-mva.com/cours/imagerie-fonctionnelle-cerebrale-et-interface-cerveau-machine/ - ENS Saclay - Jan-Feb 2024.
 
-## Lessson 3 - Advanced M/EEG data analysis: connectivity, networks, statistics
 
-## Lession 4 - BCI: load datasets, ML, and performance comparison
+To install the packages used in the different notebooks, please do:
+
+`pip install -r requirements.txt`
+
+
+## Lesson 1 - M/EEG data: where it all begins!
+
+## Lesson 2 - MEEG source reconstruction, by T. Papadopoulo
+
+## Lessson 3 - Advanced M/EEG data analysis
+
+## Lesson 4 - Brain-Computer Interfaces
