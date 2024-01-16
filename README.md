@@ -14,11 +14,9 @@ To install the packages used in the different notebooks, please do:
 
 - Lesson 2 - Estimating the sources of M/EEG activity – w/ Théo Papadopoulo (Inria, Sophia-Antipolis) - 25/01 – 9:30-12:30AM
 
-
 - Lessson 3 - How to further explore M/EEG data to answer scientific questions? – 01/02 – 9:30-12:30AM
 
-
--  Lesson 4 - How to use real-time M/EEG data for clinical purpose? – 08/02 – 9:30-12:30AM  @ Paris Brain Institute! (+visit of the neuroimaging platform) 
+- Lesson 4 - How to use real-time M/EEG data for clinical purpose? – 08/02 – 9:30-12:30AM  @ Paris Brain Institute! (+visit of the neuroimaging platform) 
 
 
 
