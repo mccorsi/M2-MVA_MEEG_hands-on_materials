@@ -19,10 +19,22 @@ To install the packages used in the different notebooks, please do:
 - Lesson 4 - How to use real-time M/EEG data for clinical purpose? – 08/02 – 9:30-12:30AM  @ Paris Brain Institute! (+visit of the neuroimaging platform) 
 
 
-
-
-
 ## References & links to go further
+### Reviews in M/EEG 
+- [Hämäläinen et al, 1993, Reviews of Modern Physics](https://link.aps.org/doi/10.1103/RevModPhys.65.413) - Magnetoencephalography-theory, instrumentation, and applications to noninvasive studies of the working human brain
+- [Gross et al, 2013, NeuroImage](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3925794/) - Good practices in MEG research
+- [Puce et Hämäläinen, 2017, Brain Sciences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5483631/) - A Review of Issues Related to Data Acquisition and Analysis in EEG/MEG Studies
+- [Hari et al, 2018, Clinical Neurophysiology](http://www.sciencedirect.com/science/article/pii/S1388245718306576) - IFCN-endorsed practical guidelines for clinical magnetoencephalography
+
+### Reviews in advanced analysis
+- [He et al, 2019, IEEE Transactions on Biomedical Engineering](https://pubmed.ncbi.nlm.nih.gov/31071012/) - Electrophysiological Brain Connectivity: Theory and Implementation
+- [Bastos & Schoffelen, 2016, Frontiers in Systems Neuroscience](https://www.frontiersin.org/articles/10.3389/fnsys.2015.00175/full) - A Tutorial Review of Functional Connectivity Analysis Methods and Their Interpretational Pitfalls
+- [De Vico Fallani et al, , 2014, Philos Trans R Soc Lond B Biol Sci.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4150298/) - Graph analysis of functional brain networks: practical issues in translational neuroscience
+- [Fornito & Zalesky, 2017](https://www.amazon.com/Fundamentals-Brain-Network-Analysis-Fornito/dp/0124079083) - Fundamentals of Brain Network Analysis
+- [Boccaletti et al, 2006, Physics Reports](https://www.sciencedirect.com/science/article/abs/pii/S037015730500462X) - Complex networks: Structure and dynamics
+- [Rubinov & Sporns, 2010, NeuroImage](https://www.sciencedirect.com/science/article/abs/pii/S105381190901074X?via%3Dihub) - Complex network measures of brain connectivity: Uses and interpretations
+- [Pernet et al, 2015, Journal of Neuroscience Methods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4510917/) - Cluster-based computational methods for mass univariate analyses of event-related brain potentials/fields: A simulation study
+
 ### Reviews in BCI
 - [McFarland & Wolpaw, 2011, Commun. ACM](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3188401/) - Brain-Computer Interfaces for Communication and Control
 - [McFarland & Vaughan, 2016, Progress in brain research](https://www.sciencedirect.com/science/article/pii/S0079612316300917) - BCI in practice
