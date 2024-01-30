@@ -10,3 +10,8 @@ datasets/MNE-eegbci-data/files/eegmmidb/1.0.0/S003/S003R03.edf
 Lesson1_MEEG/.ipynb_checkpoints/MEEG data visualization-checkpoint.ipynb
 .idea/misc.xml
 .idea/M2-MVA_MEEG_hands-on_materials.iml
+*.edf
+datasets/.DS_Store
+datasets/MNE-eegbci-data/.DS_Store
+.DS_Store
+Lesson4_BCI/.DS_Store
