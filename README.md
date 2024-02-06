@@ -46,6 +46,7 @@ To install the packages used in the different notebooks, please do:
 - [OpenViBE](http://openvibe.inria.fr/) - Inria software to perform online experiments
 - [MOABB](https://github.com/NeuroTechX/moabb) - Python package to work with open datasets in order to compare classification pipelines and their replicability
 - [scikit-learn](https://scikit-learn.org/stable/) - Python package to build classification pipelines
+- [HappyFeat](https://happyfeat.readthedocs.io/en/latest/) - Python package to extract and select features for BCI
 
 ### Groups and events
 - [BCI society](http://bcisociety.org/) - international society dedicated to BCI research
