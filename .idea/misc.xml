@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="/opt/anaconda3/envs/tuto_meeg" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="/opt/anaconda3/envs/M2-MVA_MEEG_hands-on" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (tutorials_meeg)" project-jdk-type="Python SDK" />
 </project>
