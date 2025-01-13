@@ -1,6 +1,6 @@
 # Materials of the hands-on used for the MVA master's degree - M/EEG part
 
-Materials associated to the the classes given during the master's degree in [MATHÉMATIQUES, VISION, APPRENTISSAGE (MVA)](https://www.master-mva.com/) -  [Functional imaging and BCI](https://www.master-mva.com/cours/imagerie-fonctionnelle-cerebrale-et-interface-cerveau-machine/ - ENS Saclay - Jan-Mar 2025.
+Materials associated to the the classes given during the master's degree in [MATHÉMATIQUES, VISION, APPRENTISSAGE (MVA)](https://www.master-mva.com/) -  [Functional imaging and BCI](https://www.master-mva.com/cours/imagerie-fonctionnelle-cerebrale-et-interface-cerveau-machine/) - ENS Saclay - Jan-Mar 2025.
 
 
 To install the packages used in the different notebooks, please do:
