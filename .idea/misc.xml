@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
-    <option name="sdkName" value="/opt/anaconda3/envs/tuto_meeg" />
+    <option name="enabledOnReformat" value="true" />
+    <option name="enabledOnSave" value="true" />
+    <option name="pathToExecutable" value="/opt/anaconda3/bin/black" />
+    <option name="sdkName" value="moabb_minischool" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (tutorials_meeg)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="moabb_minischool" project-jdk-type="Python SDK" />
 </project>
