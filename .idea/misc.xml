@@ -6,5 +6,5 @@
     <option name="pathToExecutable" value="/opt/anaconda3/bin/black" />
     <option name="sdkName" value="moabb_minischool" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="moabb_minischool" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (M2-MVA_MEEG_hands-on_materials)" project-jdk-type="Python SDK" />
 </project>
